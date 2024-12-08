@@ -17,11 +17,13 @@
 
 📈 My Github stats <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DewangaTheekshana&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=DewangaTheekshana&theme=dark&show_icons=true&hide_border=true&background=060A0CD0" alt="shwetangStats" />  
+ <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HridoyHazard&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DewangaTheekshana&layout=compact&theme=dark" alt="top-langs" />
 </p>
+
 
 <br>
 
