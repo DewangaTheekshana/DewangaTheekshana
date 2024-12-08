@@ -50,4 +50,9 @@
   <img src="https://profile-counter.glitch.me/DewangaTheekshana/count.svg" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+</p>
+
+
 ----
